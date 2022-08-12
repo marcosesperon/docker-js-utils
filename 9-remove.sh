@@ -1,0 +1,1 @@
+docker stop js-utils && docker rm js-utils && docker rmi js-utils

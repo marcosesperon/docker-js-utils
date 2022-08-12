@@ -1,0 +1,4 @@
+textarea.form-control {
+  min-height: 70vh;
+  height: 100%;
+}
